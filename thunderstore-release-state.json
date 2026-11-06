@@ -1,9 +1,9 @@
 {
   "last_check_result": {
-    "checked_at": "2026-11-06T02:55:32.993296+00:00",
+    "checked_at": "2026-11-06T03:02:11.825913+00:00",
     "integration_tests_executed": false,
-    "previous_release": null,
-    "reason": "first execution: baseline recorded; no tests run",
+    "previous_release": "0.187.0",
+    "reason": "release already checked",
     "release": "0.187.0",
     "requires_integration_tests": false
   },
