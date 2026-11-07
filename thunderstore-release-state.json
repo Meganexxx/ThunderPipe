@@ -1,12 +1,26 @@
 {
   "last_check_result": {
-    "checked_at": "2026-11-07T05:13:09.721544+00:00",
+    "checked_at": "2026-11-07T05:13:20.117433+00:00",
     "integration_tests_executed": false,
-    "reason": "manual retest",
+    "reason": "environment_failure",
     "release": "0.187.0",
     "requires_integration_tests": true
   },
   "last_checked_release": "0.187.0",
+  "last_environment_failure": {
+    "recorded_at": "2026-11-07T05:13:20.117433+00:00",
+    "release": "0.187.0",
+    "run_url": "https://github.com/Meganexxx/ThunderPipe/actions/runs/42341775222",
+    "status": "environment_failure",
+    "thunderpipe_commit": "32cd20b971286ef65ef88672a6677b74f8e3493b"
+  },
   "last_successful_test_release": null,
+  "last_test_result": {
+    "recorded_at": "2026-11-07T05:13:20.117433+00:00",
+    "release": "0.187.0",
+    "run_url": "https://github.com/Meganexxx/ThunderPipe/actions/runs/42341775222",
+    "status": "environment_failure",
+    "thunderpipe_commit": "32cd20b971286ef65ef88672a6677b74f8e3493b"
+  },
   "pending_test_release": "0.187.0"
 }
