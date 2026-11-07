@@ -1,8 +1,8 @@
 {
   "last_check_result": {
-    "checked_at": "2026-11-07T05:50:22.487145+00:00",
-    "integration_tests_executed": true,
-    "reason": "test_failure",
+    "checked_at": "2026-11-07T06:39:34.414972+00:00",
+    "integration_tests_executed": false,
+    "reason": "manual retest",
     "release": "0.187.0",
     "requires_integration_tests": true
   },
@@ -22,7 +22,7 @@
     "status": "test_failure",
     "thunderpipe_commit": "0034c2012ba2b29e03e20fa81033eccf09e1cfa6"
   },
-  "pending_test_release": null,
+  "pending_test_release": "0.187.0",
   "tested_releases": {
     "0.187.0": {
       "recorded_at": "2026-11-07T05:50:22.487145+00:00",
