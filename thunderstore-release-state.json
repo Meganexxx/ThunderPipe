@@ -1,26 +1,26 @@
 {
   "last_check_result": {
-    "checked_at": "2026-11-07T05:26:41.489261+00:00",
+    "checked_at": "2026-11-07T05:27:11.551850+00:00",
     "integration_tests_executed": false,
-    "reason": "manual retest",
+    "reason": "environment_failure",
     "release": "0.187.0",
     "requires_integration_tests": true
   },
   "last_checked_release": "0.187.0",
   "last_environment_failure": {
-    "recorded_at": "2026-11-07T05:13:20.117433+00:00",
+    "recorded_at": "2026-11-07T05:27:11.551850+00:00",
     "release": "0.187.0",
-    "run_url": "https://github.com/Meganexxx/ThunderPipe/actions/runs/42341775222",
+    "run_url": "https://github.com/Meganexxx/ThunderPipe/actions/runs/42342743114",
     "status": "environment_failure",
-    "thunderpipe_commit": "32cd20b971286ef65ef88672a6677b74f8e3493b"
+    "thunderpipe_commit": "3d365bc91142c95c9595573ea2f7ecfc4660dca9"
   },
   "last_successful_test_release": null,
   "last_test_result": {
-    "recorded_at": "2026-11-07T05:13:20.117433+00:00",
+    "recorded_at": "2026-11-07T05:27:11.551850+00:00",
     "release": "0.187.0",
-    "run_url": "https://github.com/Meganexxx/ThunderPipe/actions/runs/42341775222",
+    "run_url": "https://github.com/Meganexxx/ThunderPipe/actions/runs/42342743114",
     "status": "environment_failure",
-    "thunderpipe_commit": "32cd20b971286ef65ef88672a6677b74f8e3493b"
+    "thunderpipe_commit": "3d365bc91142c95c9595573ea2f7ecfc4660dca9"
   },
   "pending_test_release": "0.187.0"
 }
