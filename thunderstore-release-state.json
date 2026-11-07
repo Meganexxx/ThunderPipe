@@ -1,8 +1,8 @@
 {
   "last_check_result": {
-    "checked_at": "2026-11-07T05:27:11.551850+00:00",
+    "checked_at": "2026-11-07T05:31:00.200286+00:00",
     "integration_tests_executed": false,
-    "reason": "environment_failure",
+    "reason": "manual retest",
     "release": "0.187.0",
     "requires_integration_tests": true
   },
